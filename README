@@ -1,0 +1,3 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=27
+
+a function to format paragraphs of text by inserting spaces. text is nicely justified to current text width after use		
